@@ -36,7 +36,9 @@ pasara de
 a
 (rkllm-conversor) davisito@RKNN-Generator:~$
 
-6 Descargar RKLLM
-
-
+6 Instalar RKLLM-Toolkit
+RKLLM-Toolkit es un kit de desarrollo de software que permite a los usuarios cuantificar y convertir modelos LLM con formato Huggingface en PC X86.
+```bash
+ pip3 install rkllm-toolkit/rkllm_toolkit-1.2.1-cp312-cp312-linux_x86_64.whl
+```
 
