@@ -43,6 +43,10 @@ sin cuda:
 ```bash
 pip install torch 
 ```
+Nota: Si nos estalla el espacio de la particion tmeporal  usar
+```bash
+TMPDIR=/home/ragn0k/tmp pip install torch
+```
 
 con cuda:
 ```bash
