@@ -17,7 +17,11 @@ source ~/.bashrc
 conda create -n rkllm-conversor python=3.12
 
 5 Activar  entorno conda
-
+```bash
+conda init 
+```
+Cerramos y entreamos de nuevo a la terminal 
+```bash
 conda activate rkllm-conversor
-
+```
 º
