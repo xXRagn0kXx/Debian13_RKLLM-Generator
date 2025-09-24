@@ -63,3 +63,9 @@ RKLLM-Toolkit es un kit de desarrollo de software que permite a los usuarios cua
  pip3 install rkllm-toolkit/rkllm_toolkit-1.2.1-cp312-cp312-linux_x86_64.whl
 ```
 
+una vez instalado lo importamos al interprete python 
+
+```bash
+$python3
+>>>from rkllm.api import RKLLM
+```
