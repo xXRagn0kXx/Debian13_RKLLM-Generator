@@ -53,7 +53,7 @@ sin cuda:
 pip install torch --index-url https://download.pytorch.org/whl/cpu
 ```
 
-dependencia auto-gptq para cuantizar modelos:
+dependencia auto-gptq para cuantizar modelos sin CUDA:
 ```bash
 BUILD_CUDA_EXT=0 pip install auto-gptq
 ```
