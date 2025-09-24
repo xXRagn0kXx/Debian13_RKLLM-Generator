@@ -24,4 +24,8 @@ Cerramos y entreamos de nuevo a la terminal
 ```bash
 conda activate rkllm-conversor
 ```
-º
+pasara de 
+(base) davisito@RKNN-Generator:~$ conda activate rkllm-conversor
+a
+(rkllm-conversor) davisito@RKNN-Generator:~$
+
