@@ -11,3 +11,13 @@
 echo 'export PATH="$HOME/miniconda3/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 ```
+
+4 Crear entorno conda
+
+conda create -n rkllm-conversor python=3.12
+
+5 Activar  entorno conda
+
+conda activate rkllm-conversor
+
+º
