@@ -39,7 +39,7 @@ a
 6 Instalar RKLLM-Toolkit
 
 Necsitamos torch
-sin cuda:
+con cuda:
 ```bash
 pip install torch 
 ```
@@ -48,9 +48,9 @@ Nota: Si nos estalla el espacio de la particion tmeporal  usar
 TMPDIR=/home/ragn0k/tmp pip install torch
 ```
 
-con cuda:
+sin cuda:
 ```bash
-pip install torch --index-url https://download.pytorch.org/whl/cu121
+pip install torch --index-url https://download.pytorch.org/whl/cpu
 ```
 
 RKLLM-Toolkit es un kit de desarrollo de software que permite a los usuarios cuantificar y convertir modelos LLM con formato Huggingface en PC X86.
